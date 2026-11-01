@@ -18,3 +18,4 @@ Undergraduate researcher in Applied Chemistry & Chemical Engineering at the Univ
 - LinkedIn: https://www.linkedin.com/in/jisanul-haque/
 - ResearchGate: https://www.researchgate.net/profile/Jisanul-Haque
 - Email: jhjisan123@gmail.com
+- ORCID: https://orcid.org/0009-0005-5694-7206
