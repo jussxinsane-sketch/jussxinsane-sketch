@@ -1,16 +1,20 @@
-## Hi there 👋
+# Jisanul Haque
 
-<!--
-**jussxinsane-sketch/jussxinsane-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate researcher in Applied Chemistry & Chemical Engineering at the University of Dhaka.
 
-Here are some ideas to get you started:
+## Research interests
+- Biomaterials and hydroxyapatite from waste (fish scales)
+- Waste valorization and biomass
+- Drug delivery with natural polymers (tamarind seed xyloglucan)
+- ChemE education and simulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+- Champion, Poster and Oral Competition, GREEN SPECTRA 2026
+- President, ACS International Student Chapter, University of Dhaka (2026-27)
+- Co-founder, ACCE Sports Club
+
+## Links
+- Portfolio: https://jisanulhaque.vercel.app
+- LinkedIn: https://www.linkedin.com/in/jisanul-haque/
+- ResearchGate: https://www.researchgate.net/profile/Jisanul-Haque
+- Email: jhjisan123@gmail.com
